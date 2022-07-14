@@ -13,4 +13,4 @@
 
 ### Admin Resource
  * Is the `create Admin` function stored inside of the Admin resource?
-  *If so, it allows bad actors with that resource to copy infinite copies of the resource.
+  * If so, it allows bad actors with that resource to copy infinite copies of the resource.
