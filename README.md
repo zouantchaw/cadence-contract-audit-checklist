@@ -21,3 +21,9 @@
 
 ### Admin Resource
  - [ ] Is the `create Admin` function stored inside of the Admin resource? If so, it allows bad actors with that resource to copy infinite copies of the resource.
+ - [ ] Is access to the `Admin` resource given through a capability receiver? If not, do so!
+ 
+### Storage Slots
+
+ - [ ] Are you linking to a generic path? Is so, DON'T!
+ - [ ] Are you using generic names for contracts? If so, DON'T!
