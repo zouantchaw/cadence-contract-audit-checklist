@@ -25,7 +25,7 @@
  
 ### Storage Slots
 
- - [ ] Are you linking to a generic path? Is so, DON'T!
+ - [ ] Are you linking to a generic path? If so, DON'T!
  - [ ] Are you using generic names for contracts? If so, DON'T!
 
 ### Linking
