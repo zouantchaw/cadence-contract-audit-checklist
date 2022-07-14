@@ -27,3 +27,9 @@
 
  - [ ] Are you linking to a generic path? Is so, DON'T!
  - [ ] Are you using generic names for contracts? If so, DON'T!
+
+### Linking
+ - [ ] Are you linking to a generic path? If so, DON'T!
+ - [ ] Are you using generic names for contracts? If so, DON'T!
+
+### Naming Conventions
